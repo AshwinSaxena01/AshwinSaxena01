@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AshwinSaxena01
-- 👀 I’m interested in Frontend Development
 - 📫 https://www.linkedin.com/in/ashwinsaxena99/
 
 <!---
